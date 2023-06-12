@@ -20,7 +20,7 @@ author: Milin Zhang
 ###############################################
 
 navbar-links:
-  Home: ""
+  Home: "https://milinzhang.github.io/"
   Publications: "publications"
   Resume: "resume"
 
