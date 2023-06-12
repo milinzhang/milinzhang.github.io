@@ -8,11 +8,10 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=bkDj
 
 **2023**
 
-- **GPU-accelerated Guided Source Separation for Meeting Transcription**  
-  **Desh Raj**, Daniel Povey, Sanjeev Khudanpur  
-  *InterSpeech 2023*  
-  [Paper](https://arxiv.org/abs/2212.05271){: .btn}
-  [Code](https://github.com/desh2608/gss){: .btn} 
+- **BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback**  
+  KF Haque, **M Zhang**, F Meneghello, F Restuccia  
+  *WoWMoM 2023*  
+  [Paper](https://arxiv.org/pdf/2303.09687.pdf){: .btn}
 
 
 <!-- 
