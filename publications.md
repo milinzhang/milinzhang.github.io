@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
+Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&hl=en" target="_blank">Google Scholar</a> for the full publications.
 <br />
 
 **2023**
