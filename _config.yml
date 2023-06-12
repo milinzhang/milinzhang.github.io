@@ -46,7 +46,7 @@ author:
   email: "zhang.mil@northeastern.edu"
   github: milinzhang    
   linkedin: milin-zhang-b82454204
-  # google-scholar: citations?user=bkDjoScAAAAJ&hl=en
+  google-scholar: citations?user=bkDjoScAAAAJ&hl=en
 
 # Select which links to show in the footer
 footer-links-active:
@@ -65,7 +65,7 @@ footer-links-active:
   youtube: false
   spotify: false
   telephone: false
-  # google-scholar: True
+  google-scholar: True
 
 # Select which share links to show in posts
 share-links-active:
