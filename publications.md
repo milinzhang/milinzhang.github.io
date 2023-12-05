@@ -8,8 +8,19 @@ Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&
 
 **2023**
 
-- KF Haque, **M Zhang**, F Meneghello, F Restuccia, **"BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback,"** in proc. of EEE 24th International Symposium on a World of Wireless, Mobile and Multimedia Networks *(WoWMoM)*  
-[Paper](https://arxiv.org/pdf/2303.09687.pdf){: .btn}
+- **Milin Zhang**, Mohammad Abdi, and Francesco Restuccia. "Adversarial Machine Learning in
+Latent Representations of Neural Networks." arXiv preprint arXiv:2309.17401 (2023).
+[[PAPER]](https://arxiv.org/pdf/2309.17401.pdf){: .btn}
+
+
+- KF Haque, **M Zhang**, F Meneghello, F Restuccia, "Beam-
+Sense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback." arXiv preprint
+arXiv:2303.09687 (2023).
+[[PAPER]](https://arxiv.org/pdf/2303.09687.pdf){: .btn}
+
+
+- KF Haque, **M Zhang**, F Meneghello, F Restuccia, "BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback," in proc. of EEE 24th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)
+[[PAPER]](https://arxiv.org/pdf/2304.00057.pdf){: .btn}
 
 
 <!-- 
