@@ -8,7 +8,7 @@ Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&
 **2024**
 
 - **Milin Zhang**, Mohammad Abdi, Shahriar Rifat, and Francesco Restuccia. “Resilience of Entropy Model to Intentional and Unintentional Interference in Distributed Deep Neural Networks.” in Proc. of the 18th European Conference on Computer Vision (ECCV), 2024. 
-[[PAPER]](https://arxiv.org/pdf/2403.00942){: .btn} [[CODE]](https://github.com/Restuccia-Group/EntropyR){: .btn} [[POSTER]](assets/Poster-ECCV-Entropy.pptx.png){: .btn}
+[[PAPER]](https://arxiv.org/pdf/2403.00942){: .btn} [[CODE]](https://github.com/Restuccia-Group/EntropyR){: .btn} [[POSTER]](/assets/img/Poster-ECCV-Entropy.pptx.png){: .btn}
 
 - Daniel Uvaydov`*`, **Milin Zhang`*`**, Clifton Paul Robinson, Salvatore D’Oro, Tommaso Melodia and Francesco Restuccia. “Stitching the Spectrum: Semantic Spectrum Segmentation with Wideband Signal Stitching.” in Proc. of IEEE Conference on Computer Communications (INFOCOM), 2024. 
 [[PAPER]](https://arxiv.org/pdf/2402.03465){: .btn} [[CODE]](https://github.com/uvaydovd/spectrum_sensing_stitching){: .btn} 
