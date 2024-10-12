@@ -3,8 +3,9 @@ layout: page
 title: Publications
 ---
 
-My <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&hl=en" target="_blank">Google Scholar</a>
+Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&hl=en" target="_blank">Google Scholar</a>
 <br />
+
 **2024**
 
 - **Milin Zhang**, Mohammad Abdi, Shahriar Rifat, and Francesco Restuccia. “Resilience of Entropy Model to Intentional and Unintentional Interference in Distributed Deep Neural Networks.” in Proc. of the 18th European Conference on Computer Vision (ECCV), 2024. 
