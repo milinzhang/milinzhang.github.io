@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&hl=en" target="_blank">Google Scholar</a> for the full publications.
+My <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&hl=en" target="_blank">Google Scholar</a>
 <br />
 **2024**
 
@@ -13,7 +13,9 @@ Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&
 - Daniel Uvaydov\*, **Milin Zhang\***, Clifton Paul Robinson, Salvatore D’Oro, Tommaso Melodia and Francesco Restuccia. “Stitching the Spectrum: Semantic Spectrum Segmentation with Wideband Signal Stitching.” in Proc. of IEEE Conference on Computer Communications (INFOCOM), 2024. 
 [[PAPER]](https://arxiv.org/pdf/2402.03465){: .btn} [[CODE]](https://github.com/uvaydovd/spectrum_sensing_stitching){: .btn} 
 
-- Ankit Mittal, **Milin Zhang**, Thomas Gourousis, Ziyue Zhang, Yunsi Fei, Marvin Onabajo, Francesco Restuccia, and Aatmesh Shrivastava, “Sub-6 GHz Energy Detection-based Fast On-Chip Analog Spectrum Sensing with Learning-driven Signal Classification.” IEEE Internet of Things Journal (2024).
+- Ankit Mittal, **Milin Zhang**, Thomas Gourousis, Ziyue Zhang, Yunsi Fei, Marvin Onabajo, Francesco Restuccia, and Aatmesh Shrivastava, “Sub-6 GHz Energy Detection-based Fast On-Chip Analog Spectrum Sensing with Learning-driven Signal Classification.” IEEE Internet of Things Journal (2024). [[PAPER]](https://ieeexplore.ieee.org/abstract/document/10507856){: .btn}
+
+- Sayyed, Sazzad, **Milin Zhang**, Shahriar Rifat, Ananthram Swami, Michael De Lucia, and Francesco Restuccia. "Resilience and Security of Deep Neural Networks Against Intentional and Unintentional Perturbations: Survey and Research Challenges." arXiv preprint arXiv:2408.00193 (2024). [[PAPER]](https://arxiv.org/pdf/2408.00193){: .btn}
 
 **2023**
 
@@ -21,7 +23,7 @@ Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&
 Latent Representations of Neural Networks." arXiv preprint arXiv:2309.17401 (2023).
 [[PAPER]](https://arxiv.org/pdf/2309.17401.pdf){: .btn}
 
-- Thomas Gourousis, Ziyue Zhang, Mengting Yan, **Millin Zhang**, Ankit Mittal, Francesco Restuccia, Aatmesh Shrivastava, Yunsi Fei, Marvin Onabajo “Identification of Stealthy Hardware Trojans through On-Chip Temperature Sensing and an Autoencoder-Based Machine Learning Algorithm” in Proc. of the IEEE 66th International Midwest Symposium on Circuits and Systems (MWSCAS), 2023.
+- Thomas Gourousis, Ziyue Zhang, Mengting Yan, **Millin Zhang**, Ankit Mittal, Francesco Restuccia, Aatmesh Shrivastava, Yunsi Fei, Marvin Onabajo “Identification of Stealthy Hardware Trojans through On-Chip Temperature Sensing and an Autoencoder-Based Machine Learning Algorithm” in Proc. of the IEEE 66th International Midwest Symposium on Circuits and Systems (MWSCAS), 2023. [[PAPER]](https://ieeexplore.ieee.org/abstract/document/10405958){: .btn}
 
 - Khandaker Foysal Haque, **Milin Zhang**, Francesca Meneghello, and Francesco Restuccia, “BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback.” arXiv preprint arXiv:2303.09687 (2023).
 [[PAPER]](https://arxiv.org/pdf/2303.09687.pdf){: .btn}
