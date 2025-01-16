@@ -6,6 +6,11 @@ title: Publications
 Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&hl=en" target="_blank">Google Scholar</a>
 <br />
 
+**2025**
+
+- Khandaker Foysal Haque, **Milin Zhang**, Francesca Meneghello, and Francesco Restuccia, “BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback.” Computer Network (2025): 111020.
+[[PAPER]](https://arxiv.org/pdf/2303.09687.pdf){: .btn}
+
 **2024**
 
 - **Milin Zhang\***, Mohammad Abdi*, Venkat R. Dasari and Francesco Restuccia. “Semantic Edge Computing and Semantic Communications in 6G Networks: A Unifying Survey and Research Challenges” arXiv preprint arXiv:2411.18199 (2024). [[PAPER]](https://arxiv.org/pdf/2411.18199){: .btn}
@@ -30,9 +35,6 @@ Latent Representations of Neural Networks." arXiv preprint arXiv:2309.17401 (202
 [[PAPER]](https://arxiv.org/pdf/2309.17401.pdf){: .btn}
 
 - Thomas Gourousis, Ziyue Zhang, Mengting Yan, **Millin Zhang**, Ankit Mittal, Francesco Restuccia, Aatmesh Shrivastava, Yunsi Fei, Marvin Onabajo “Identification of Stealthy Hardware Trojans through On-Chip Temperature Sensing and an Autoencoder-Based Machine Learning Algorithm” in Proc. of the IEEE 66th International Midwest Symposium on Circuits and Systems (MWSCAS), 2023. [[PAPER]](https://ieeexplore.ieee.org/abstract/document/10405958){: .btn}
-
-- Khandaker Foysal Haque, **Milin Zhang**, Francesca Meneghello, and Francesco Restuccia, “BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback.” arXiv preprint arXiv:2303.09687 (2023).
-[[PAPER]](https://arxiv.org/pdf/2303.09687.pdf){: .btn}
 
 
 - Khandaker Foysal Haque, **Milin Zhang**, Francesco Restuccia, “SiMWiSense: Simultaneous Multi-Subject Activity Classification Through Wi-Fi Signals.” in Proc. of the IEEE 24th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), 2023.
