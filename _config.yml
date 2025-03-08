@@ -23,8 +23,8 @@ author: Milin Zhang
 navbar-links:
   Home: "https://milinzhang.github.io/"
   Publications: "publications"
-  # Resume: "resume"
-  CV: "CV"
+  Resume: "Resume"
+  # CV: "CV"
 
 ################
 # --- Logo --- #
