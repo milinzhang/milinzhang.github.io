@@ -31,7 +31,7 @@ use-site-title: true
 
 ***\* Equal Contributions***
 
-- **Milin Zhang**, Mohammad Abdi\*, Shahriar Rifat, and Francesco Restuccia. "Resilience of Entropy Model in Distributed Neural Networks." *in Proc. of the 18th European Conference on Computer Vision (**ECCV**), 2024.*
+- **Milin Zhang**, Mohammad Abdi, Shahriar Rifat, and Francesco Restuccia. "Resilience of Entropy Model in Distributed Neural Networks." *in Proc. of the 18th European Conference on Computer Vision (**ECCV**), 2024.*
 - Daniel Uvaydov\*, **Milin Zhang\***, Clifton Paul Robinson, Salvatore D’Oro, Tommaso Melodia and Francesco Restuccia. "Stitching the Spectrum: Semantic Spectrum Segmentation with Wideband Signal Stitching." *in Proc. of IEEE Conference on Computer Communications (**INFOCOM**), 2024.*
 - **Milin Zhang\***, Mohammad Abdi\*, Venkat R. Dasari and Francesco Restuccia. "Semantic Edge Computing and Semantic Communications in 6G Networks: A Unifying Survey and Research Challenges" *arXiv preprint arXiv:2411.18199 (2024).*
 - Sayyed Sazzad\*, **Milin Zhang\***, Shahriar Rifat\*, Ananthram Swami, Michael De Lucia, and Francesco Restuccia. "Resilience and Security of Deep Neural Networks Against Intentional and Unintentional Perturbations: Survey and Research Challenges." *arXiv preprint arXiv:2408.00193 (2024).*
