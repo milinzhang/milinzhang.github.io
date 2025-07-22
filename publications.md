@@ -24,8 +24,7 @@ Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&
 
 - Sayyed, Sazzad, **Milin Zhang**, Shahriar Rifat, Ananthram Swami, Michael De Lucia, and Francesco Restuccia. "Resilience and Security of Deep Neural Networks Against Intentional and Unintentional Perturbations: Survey and Research Challenges." arXiv preprint arXiv:2408.00193 (2024). [[PAPER]](https://arxiv.org/pdf/2408.00193){: .btn}
 
-- **Milin Zhang**, Mohammad Abdi, and Francesco Restuccia. "Adversarial Machine Learning in
-Latent Representations of Neural Networks." arXiv preprint arXiv:2309.17401 (2023).
+- **Milin Zhang**, Mohammad Abdi, Jonathan Ashdown, and Francesco Restuccia. "Adversarial Attacks to Latent Representations of Distributed Neural Networks in Split Computing." arXiv preprint arXiv:2309.17401 (2023).
 [[PAPER]](https://arxiv.org/pdf/2309.17401.pdf){: .btn}
 
 **Integreted Sensing and Comm.**
@@ -35,26 +34,5 @@ Latent Representations of Neural Networks." arXiv preprint arXiv:2309.17401 (202
 
 - Khandaker Foysal Haque, **Milin Zhang**, Francesco Restuccia, “SiMWiSense: Simultaneous Multi-Subject Activity Classification Through Wi-Fi Signals.” in Proc. of the IEEE 24th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), 2023.
 [[PAPER]](https://arxiv.org/pdf/2304.00057.pdf){: .btn}
-
-<!-- 
-**Non-refereed project reports:**
-
-- **Desh Raj**. *Semi-implicit variational inference for unsupervised acoustic unit discovery*.
-    [PDF](/static/report/aud.pdf){: .btn}
-- Tara Abrishami, **Desh Raj**, Noah Scribner, Vasileios Papaioannou. *Inference on Ohio redistricting maps from
-Congressional 2016 elections*.
-    [PDF](/static/report/ohio.pdf){: .btn}
-- **Desh Raj**. *Estimating bounds for bit-truncated word embeddings*.
-    [PDF](/static/report/bounds.pdf){: .btn}
-- Venkat Arun, **Desh Raj**, Mrinal Tak, Sumeet Ranka. *Fine-grained readability estimation using language modeling*.
-    [PDF](/static/report/readability.pdf){: .btn}
-- **Desh Raj**, Kanhaiya Rathi. *A survey of probabilistic databases*. 
-    [PDF](/static/report/dbms-survery.pdf){: .btn}
-- **Desh Raj**, Abhilasha Sancheti, Mrinal Tak, Kunaal Jain. *Monitoring production line performance to reduce manufacturing failures*.
-    [PDF](/static/report/bosch.pdf){: .btn}
-- **Desh Raj**, Sumeet Ranka, Siddharth Kumar, Akashdeep Goswami, Samyak Kumbhalwar. *Spatial transformer networks*.
-    [PDF](/static/report/stn.pdf){: .btn}
-
-<br />  -->
 
 
