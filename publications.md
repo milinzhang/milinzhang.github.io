@@ -6,17 +6,8 @@ title: Publications
 Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&hl=en" target="_blank">Google Scholar</a>
 <br />
 
-**2025**
-
-- Khandaker Foysal Haque, **Milin Zhang**, Francesca Meneghello, and Francesco Restuccia, “BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback.” Computer Network (2025): 111020.
-[[PAPER]](https://arxiv.org/pdf/2303.09687.pdf){: .btn}
-
-**2024**
-
-- **Milin Zhang\***, Mohammad Abdi*, Venkat R. Dasari and Francesco Restuccia. “Semantic Edge Computing and Semantic Communications in 6G Networks: A Unifying Survey and Research Challenges” arXiv preprint arXiv:2411.18199 (2024). [[PAPER]](https://arxiv.org/pdf/2411.18199){: .btn}
-
-- **Milin Zhang**, Mohammad Abdi, Shahriar Rifat, and Francesco Restuccia. “Resilience of Entropy Model to Intentional and Unintentional Interference in Distributed Deep Neural Networks.” in Proc. of the 18th European Conference on Computer Vision (ECCV), 2024. 
-[[PAPER]](https://arxiv.org/pdf/2403.00942){: .btn} [[CODE]](https://github.com/Restuccia-Group/EntropyR){: .btn} [[POSTER]](/assets/img/Poster-ECCV-Entropy.pptx.png){: .btn}
+**AI-driven Next-G Wireless**
+- **Milin Zhang\***, Mohammad Abdi*, Venkat R. Dasari and Francesco Restuccia. “Semantic Edge Computing and Semantic Communications in 6G Networks: A Unifying Survey and Research Challenges” Computer Network (2025): 111531. [[PAPER]](https://arxiv.org/pdf/2411.18199){: .btn}
 
 - Daniel Uvaydov\*, **Milin Zhang\***, Clifton Paul Robinson, Salvatore D’Oro, Tommaso Melodia and Francesco Restuccia. “Stitching the Spectrum: Semantic Spectrum Segmentation with Wideband Signal Stitching.” in Proc. of IEEE Conference on Computer Communications (INFOCOM), 2024. 
 [[PAPER]](https://arxiv.org/pdf/2402.03465){: .btn} [[CODE]](https://github.com/uvaydovd/spectrum_sensing_stitching){: .btn}
@@ -26,20 +17,24 @@ Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&
 
 - Ankit Mittal, **Milin Zhang**, Thomas Gourousis, Ziyue Zhang, Yunsi Fei, Marvin Onabajo, Francesco Restuccia, and Aatmesh Shrivastava, “Sub-6 GHz Energy Detection-based Fast On-Chip Analog Spectrum Sensing with Learning-driven Signal Classification.” IEEE Internet of Things Journal (2024). [[PAPER]](https://ieeexplore.ieee.org/abstract/document/10507856){: .btn}
 
-- Sayyed, Sazzad, **Milin Zhang**, Shahriar Rifat, Ananthram Swami, Michael De Lucia, and Francesco Restuccia. "Resilience and Security of Deep Neural Networks Against Intentional and Unintentional Perturbations: Survey and Research Challenges." arXiv preprint arXiv:2408.00193 (2024). [[PAPER]](https://arxiv.org/pdf/2408.00193){: .btn}
+**Wireless-Accelerated Deep Neural Networks**
 
-**2023**
+- **Milin Zhang**, Mohammad Abdi, Shahriar Rifat, and Francesco Restuccia. “Resilience of Entropy Model in Distributed Deep Neural Networks.” in Proc. of the 18th European Conference on Computer Vision (ECCV), 2024. 
+[[PAPER]](https://arxiv.org/pdf/2403.00942){: .btn} [[CODE]](https://github.com/Restuccia-Group/EntropyR){: .btn} [[POSTER]](/assets/img/Poster-ECCV-Entropy.pptx.png){: .btn}
+
+- Sayyed, Sazzad, **Milin Zhang**, Shahriar Rifat, Ananthram Swami, Michael De Lucia, and Francesco Restuccia. "Resilience and Security of Deep Neural Networks Against Intentional and Unintentional Perturbations: Survey and Research Challenges." arXiv preprint arXiv:2408.00193 (2024). [[PAPER]](https://arxiv.org/pdf/2408.00193){: .btn}
 
 - **Milin Zhang**, Mohammad Abdi, and Francesco Restuccia. "Adversarial Machine Learning in
 Latent Representations of Neural Networks." arXiv preprint arXiv:2309.17401 (2023).
 [[PAPER]](https://arxiv.org/pdf/2309.17401.pdf){: .btn}
 
-- Thomas Gourousis, Ziyue Zhang, Mengting Yan, **Millin Zhang**, Ankit Mittal, Francesco Restuccia, Aatmesh Shrivastava, Yunsi Fei, Marvin Onabajo “Identification of Stealthy Hardware Trojans through On-Chip Temperature Sensing and an Autoencoder-Based Machine Learning Algorithm” in Proc. of the IEEE 66th International Midwest Symposium on Circuits and Systems (MWSCAS), 2023. [[PAPER]](https://ieeexplore.ieee.org/abstract/document/10405958){: .btn}
+**Integreted Sensing and Comm.**
 
+- Khandaker Foysal Haque, **Milin Zhang**, Francesca Meneghello, and Francesco Restuccia, “BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback.” Computer Network (2025): 111020.
+[[PAPER]](https://arxiv.org/pdf/2303.09687.pdf){: .btn}
 
 - Khandaker Foysal Haque, **Milin Zhang**, Francesco Restuccia, “SiMWiSense: Simultaneous Multi-Subject Activity Classification Through Wi-Fi Signals.” in Proc. of the IEEE 24th International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM), 2023.
 [[PAPER]](https://arxiv.org/pdf/2304.00057.pdf){: .btn}
-
 
 <!-- 
 **Non-refereed project reports:**
