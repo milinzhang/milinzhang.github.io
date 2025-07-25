@@ -51,7 +51,7 @@ title: Projects
 <!-- 项目 list -->
 
 <div class="project-card">
-    <img src="assets/img/system_framework_rings_v3-1.png">
+    <img src="/assets/img/system_framework_rings_v3-1.png">
     <div>
         <h2>Computing-based Resilience to AdvML in Wireless Networking</h2>
         <p>We present the first effort to combine the on-chip analog spectrum sensor with learning-driven spectrum segmentation for achieve a rapid and accuracy sensing in Sub-6 GHz bandwidth.</p>
@@ -60,37 +60,37 @@ title: Projects
 </div>
 
 <div class="project-card">
-    <img src="assets/img/system_framework_rings_v3-1.png">
+    <img src="/assets/img/system_framework_rings_v3-1.png">
     <div>
         <h2>Resilience of Entropy Model in Split Computing</h2>
         <p>We present the first effort to combine the on-chip analog spectrum sensor with learning-driven spectrum segmentation for achieve a rapid and accuracy sensing in Sub-6 GHz bandwidth.</p>
-        <a href="publications.md">Learn More →</a>
+        <a href="/publications.md">Learn More →</a>
     </div>
 </div>
 
 <div class="project-card">
-    <img src="assets/img/system_framework_rings_v3-1.png">
+    <img src="/assets/img/system_framework_rings_v3-1.png">
     <div>
         <h2>AdvML in Split Computing</h2>
         <p>We present the first effort to combine the on-chip analog spectrum sensor with learning-driven spectrum segmentation for achieve a rapid and accuracy sensing in Sub-6 GHz bandwidth.</p>
-        <a href="publications.md">Learn More →</a>
+        <a href="/publications.md">Learn More →</a>
     </div>
 </div>
 
 <div class="project-card">
-    <img src="assets/img/system_framework_rings_v3-1.png">
+    <img src="/assets/img/system_framework_rings_v3-1.png">
     <div>
         <h2>On-Chip Analog Spectrum Sensing With Learning-Driven Signal Classification</h2>
         <p>We present the first effort to combine the on-chip analog spectrum sensor with learning-driven spectrum segmentation for achieve a rapid and accuracy sensing in Sub-6 GHz bandwidth.</p>
-        <a href="publications.md">Learn More →</a>
+        <a href="/publications.md">Learn More →</a>
     </div>
 </div>
 
 <div class="project-card">
-    <img src="assets/img/system_framework_rings_v3-1.png">
+    <img src="/assets/img/system_framework_rings_v3-1.png">
     <div>
         <h2>Wideband Semantic Spectrum Segmentation</h2>
         <p>We present the first effort to combine the on-chip analog spectrum sensor with learning-driven spectrum segmentation for achieve a rapid and accuracy sensing in Sub-6 GHz bandwidth.</p>
-        <a href="publications.md">Learn More →</a>
+        <a href="/publications.md">Learn More →</a>
     </div>
 </div>
