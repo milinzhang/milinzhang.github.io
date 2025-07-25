@@ -64,7 +64,7 @@ title: Projects
     <div>
         <h2>Resilience of Entropy Model in Split Computing</h2>
         <p>We present the first effort to combine the on-chip analog spectrum sensor with learning-driven spectrum segmentation for achieve a rapid and accuracy sensing in Sub-6 GHz bandwidth.</p>
-        <a href="/publications.md">Learn More →</a>
+        <a href="/publications/">Learn More →</a>
     </div>
 </div>
 
@@ -73,7 +73,7 @@ title: Projects
     <div>
         <h2>AdvML in Split Computing</h2>
         <p>We present the first effort to combine the on-chip analog spectrum sensor with learning-driven spectrum segmentation for achieve a rapid and accuracy sensing in Sub-6 GHz bandwidth.</p>
-        <a href="/publications.md">Learn More →</a>
+        <a href="/publications/">Learn More →</a>
     </div>
 </div>
 
