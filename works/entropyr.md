@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Resilience of Entropy Model
+subtitle: Resilience of Entropy Model
 ---
