@@ -1,5 +1,5 @@
 ---
 layout: page
-title: 
+title: Research
 subtitle: Semantic Spectrum Segmentation
 ---

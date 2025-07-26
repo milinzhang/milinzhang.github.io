@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Projects
+layout: page
+title: Research
 subtitle: Adversarial Machine Learning in Split Computing
-cover-img: /assets/img/DynamicDefense-3-1.png
 ---
 
+![image](/assets/img/Distributed-AdvML-1.png)
