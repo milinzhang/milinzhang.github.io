@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research
 ---
 
 <style>
@@ -53,7 +53,7 @@ title: Projects
 <div class="project-card">
     <img src="/assets/img/DynamicDefense-3-1.png">
     <div>
-        <h2>Computing-based Resilience to AdvML in Wireless Networking</h2>
+        <h2>Dynamic Defense to Adversarial RFMLS</h2>
         <p>We present the first effort to combine the on-chip analog spectrum sensor with learning-driven spectrum segmentation for achieve a rapid and accuracy sensing in Sub-6 GHz bandwidth.</p>
         <a href="/works/hyperadv" target="_blank">Learn More →</a>
     </div>
@@ -80,7 +80,7 @@ title: Projects
 <div class="project-card">
     <img src="/assets/img/system_framework_rings_v3-1.png">
     <div>
-        <h2>On-Chip Analog Spectrum Sensing With Learning-Driven Signal Classification</h2>
+        <h2>Cross-Layer Spectrum Sensing</h2>
         <p>We present the first effort to combine the on-chip analog spectrum sensor with learning-driven spectrum segmentation for achieve a rapid and accuracy sensing in Sub-6 GHz bandwidth.</p>
         <a href="/works/rings" target="_blank">Learn More →</a>
     </div>

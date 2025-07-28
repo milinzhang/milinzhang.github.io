@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research
 subtitle: Dynamic Defense to Adversarial RFMLS
 ---
 

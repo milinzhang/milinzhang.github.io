@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research
 subtitle: Resilience of Entropy Model
 ---
 
