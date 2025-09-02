@@ -54,7 +54,7 @@ title: Research
     <img src="/assets/img/DynamicDefense-3-1.png">
     <div>
         <h2>Dynamic Defense to Adversarial RFMLS</h2>
-        <p>We present the first effort to combine the on-chip analog spectrum sensor with learning-driven spectrum segmentation for achieve a rapid and accuracy sensing in Sub-6 GHz bandwidth.</p>
+        <p>Adversarial attack is a critical threat in Radio Frequency Machine Learning Systems (RFMLS). However, current state-of-the-art static defense sacrifice the performance on benign input, which cannot meet the QoS requirement of the communication system. In contrast, we propose a novel dynamic defense that can effectively improve the system's robustness without lossing performance on benign input.</p>
         <a href="/works/hyperadv" target="_blank">Learn More →</a>
     </div>
 </div>
