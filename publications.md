@@ -20,7 +20,7 @@ Please see my <a href="https://scholar.google.co.in/citations?user=bkDjoScAAAAJ&
 - **Milin Zhang**, Mohammad Abdi, Shahriar Rifat, and Francesco Restuccia. “Resilience of Entropy Model in Distributed Deep Neural Networks.” in Proc. of the 18th European Conference on Computer Vision (ECCV), 2024. 
 [[PAPER]](https://arxiv.org/pdf/2403.00942){: .btn} [[CODE]](https://github.com/Restuccia-Group/EntropyR){: .btn} [[POSTER]](/assets/img/Poster-ECCV-Entropy.pptx.png){: .btn}
 - Sayyed, Sazzad, **Milin Zhang**, Shahriar Rifat, Ananthram Swami, Michael De Lucia, and Francesco Restuccia. "Resilience and Security of Deep Neural Networks Against Intentional and Unintentional Perturbations: Survey and Research Challenges." arXiv preprint arXiv:2408.00193 (2024). [[PAPER]](https://arxiv.org/pdf/2408.00193){: .btn}
-- **Milin Zhang**, Mohammad Abdi, Jonathan Ashdown, and Francesco Restuccia. "Adversarial Attacks to Latent Representations of Distributed Neural Networks in Split Computing." arXiv preprint arXiv:2309.17401 (2023).
+- **Milin Zhang**, Mohammad Abdi, Jonathan Ashdown, and Francesco Restuccia. "Adversarial Attacks to Latent Representations of Distributed Neural Networks in Split Computing." Computer Networks (2025).
 [[PAPER]](https://arxiv.org/pdf/2309.17401.pdf){: .btn}
 
 **Integreted Sensing and Comm.**
