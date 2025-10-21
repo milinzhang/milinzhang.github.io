@@ -7,7 +7,7 @@ use-site-title: true
 <style>
   /* Only affects this page */
   body {
-    line-height: 1.2;
+    line-height: 1em;
   }
 </style>
 
