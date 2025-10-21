@@ -24,8 +24,8 @@ navbar-links:
   Home: "https://milinzhang.github.io/"
   Research: "projects"
   # Publications: "publications"
-  Resume: "CV"
-  # CV: "CV"
+  # Resume: "CV"
+  CV: "resume"
 
 ################
 # --- Logo --- #
