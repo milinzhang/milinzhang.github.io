@@ -3,7 +3,9 @@ layout: page
 title: Research
 ---
 
-### Overview 
+## Overview 
+
+<img align="right" src="/assets/img/research_overview.png" width="300">
 
 My research sit at the intersection of **Artificial Intelligence** and **Wireless Communication**, with a focus on making AI systems that operate over wireless networks simultaneously *efficient* and *trustworthy*. More specifically, it spans across three tightly coupled thrusts:
 
@@ -11,11 +13,9 @@ My research sit at the intersection of **Artificial Intelligence** and **Wireles
 - **Efficient AI for Networked Systems**: Enabling low-latency, resource-aware inference across heterogenous edge devices through split computing, semantic communication, and multi-device model distribution.
 - **Security and Privacy**: Developing principled defense against adversarial attacks on 
 
-<img align="right" src="/assets/img/research_overview.png">
-
 ---
 
-### AI-Native Wireless Networks
+## AI-Native Wireless Networks
 
 
 *Selected Work*:
@@ -26,7 +26,7 @@ My research sit at the intersection of **Artificial Intelligence** and **Wireles
 
 ---
 
-### Efficient AI for Networked Systems
+## Efficient AI for Networked Systems
 
 *Selected Work*:
 
@@ -35,7 +35,7 @@ My research sit at the intersection of **Artificial Intelligence** and **Wireles
 
 ---
 
-### Security and Privacy
+## Security and Privacy
 
 *Selected Work*:
 
