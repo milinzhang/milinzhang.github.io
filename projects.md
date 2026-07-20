@@ -5,7 +5,7 @@ title: Research
 
 ## Overview 
 
-<img align="right" src="/assets/img/research_overview.png" width="300">
+<img align="right" src="/assets/img/research_overview.png" width="450">
 
 My research sit at the intersection of **Artificial Intelligence** and **Wireless Communication**, with a focus on making AI systems that operate over wireless networks simultaneously *efficient* and *trustworthy*. More specifically, it spans across three tightly coupled thrusts:
 
