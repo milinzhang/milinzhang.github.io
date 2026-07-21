@@ -19,7 +19,7 @@ We are moving toward a future of *"Ubiquitous Intelligence"* where AI is woven i
 
 
 
-*Selected Work*:
+<p style="margin-bottom: 0.5rem;">*Selected Work*: </p>
 
 - Khandaker Foysal Haque, **Milin Zhang**, Francesca Meneghello, and Francesco Restuccia, "Si-FI: Learning the Beamforming Feedback for Simultaneous Multi-Subject Sensing." Computer Networks, 2025.
 - Khandaker Foysal Haque, **Milin Zhang**, Francesca Meneghello, and Francesco Restuccia, "BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback." Computer Networks, 2025.
