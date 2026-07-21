@@ -17,7 +17,7 @@ We are moving toward a future of *"Ubiquitous Intelligence"* where AI is woven i
 
 ## AI-Native Wireless Networks
 
-<img align="left" src="/assets/img/setup_v2-1.png" width="400">
+<img align="left" src="/assets/img/setup_v2-1.png" width="350" style="margin-right: 0.3rem">
 
 As wireless networks become more crowded and complex, an intelligent management is needed to communicate efficiently and avoid interference. In addition, beyond simply communicating, the same wireless signals can also be repurposed to sense the real world through AI, turning ordinary radio signals into a form of invisible, hardware-free sensing. My research in this thrust develops generalizable and efficient AI algorithms to advance wireless technologies. 
 
@@ -47,7 +47,7 @@ Large neural networks demand substantial memory and computations which makes dir
 
 ## Security and Privacy
 
-<img align="left" src="/assets/img/AdvML-Latent_ExpSetup_Diagram.png" width="400">
+<img align="left" src="/assets/img/AdvML-Latent_ExpSetup_Diagram.png" width="300" style="margin-right: 0.3rem;">
 
 Combining AI and wireless communication does not just bring efficiency, it also inherits vulnerabilities from both sides. Wireless signals can be spoofed or intercepted, and AI models themselves can be fooled, manipulated, or reverse-engineered by adversaries. My research in this thrust develops defenses on both fronts: detecting adversaries from their radio and network level patterns, and making AI models more robust and trustworthy when faced with unexpected or malicious inputs.
 
