@@ -34,7 +34,7 @@ We are moving toward a future of *"Ubiquitous Intelligence"* where AI is woven i
 
 Large neural networks demand substantial memory and computations which makes direct deployment on resource-constrained devices impractical. An alternative way is to partition the large model across multiple devices, achieving a balance across computation, communication, and task-oriented performance. My research in this thrust focus on optimizing the resources allocation problem using tools such as reinforcement learning for adaptive and low-latency collaborative intelligence.
 
-<p style="margin-bottom: 1rem;">*Selected Work*: </p>
+<p style="margin-bottom: 0.5rem;">*Selected Work*: </p>
 
 - **Milin Zhang\***, Tanzil Hassan\*, Mohammad Abdi, Venkat R. Dasari and Francesco Restuccia, "MD2I: Multi-Device Model-Distributed Neural Network Inference." Under review at Computer Network, 2026.
 - **Milin Zhang\***, Mohammad Abdi\*, Venkat R. Dasari and Francesco Restuccia, "Semantic Edge Computing and Semantic Communications in 6G Networks: A Unifying Survey and Research Challenges." Computer Networks, 2025.
@@ -49,7 +49,7 @@ Large neural networks demand substantial memory and computations which makes dir
 
 Combing AI and wireless is not just about efficiencey. It also inherits vulnerability from both sides. My research in this thrust focuses on both network security and AI security, including RF fingerprinting, network intrusion detection, adversarial robustness, OOD detection, etc.
 
-*Selected Work*:
+<p style="margin-bottom: 0.5rem;">*Selected Work*: </p>
 
 - Sayyed Sazzad, Shahriar Rifat, **Milin Zhang**, Ananthram Swami, Michael De Lucia, Nathaniel D. Bastian, and Francesco Restuccia, "Out-of-Distribution Detection in Computer Vision: A Comprehensive Survey and Research Challenges." ACM Computing Surveys, 2026.
 - Ildi Alla, **Milin Zhang**, Jonathan Ashdown, Valeria Loscri and Francesco Restuccia, "Finding a Needle in a (Spectrum) Haystack: Multi-Band Multi-Device Radio Fingerprinting." Computer Networks, 2026.
