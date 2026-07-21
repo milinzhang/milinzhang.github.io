@@ -7,7 +7,7 @@ title: Research
 
 <img align="right" src="/assets/img/research_overview.png" width="400">
 
-<div style="text-align: justify;"> We are moving toward a future of *"Ubiquitous Intelligence"* where AI is woven into the wireless networks that connect our phones, cars, and everyday devices. To make this vision real, my research sits at the intersection of **Artificial Intelligence** and **Wireless Communication**, with a focus on making AI systems that operate over wireless networks simultaneously *efficient*, *reliable* and *secure*. More specifically, it spans three tightly coupled thrusts: </div>
+We are moving toward a future of *"Ubiquitous Intelligence"* where AI is woven into the wireless networks that connect our phones, cars, and everyday devices. To make this vision real, my research sits at the intersection of **Artificial Intelligence** and **Wireless Communication**, with a focus on making AI systems that operate over wireless networks simultaneously *efficient*, *reliable* and *secure*. More specifically, it spans three tightly coupled thrusts:
 
 - **AI-Native Wireless Networks**: Applying deep learning to advance next-generation wireless technologies such as spectrum sensing, RF fingerprinting, and integrated sensing and communication.
 - **Efficient AI for Networked Systems**: Enabling low-latency, resource-aware inference across heterogeneous edge devices through split computing, semantic communication, and multi-device model distribution.
@@ -32,7 +32,7 @@ title: Research
 
 <img align="right" src="/assets/img/distributed_dnn-3-1.png" width="400">
 
-<div style="text-align: justify;"> Large neural networks demand substantial memory and computations which makes direct deployment on resource-constrained devices impractical. An alternative way is to partition the large model across multiple devices, achieving a balance across computation, communication, and task-oriented performance. My research in this thrust focus on optimizing the resources allocation problem using tools such as reinforcement learning for adaptive and low-latency collaborative intelligence. </div>
+Large neural networks demand substantial memory and computations which makes direct deployment on resource-constrained devices impractical. An alternative way is to partition the large model across multiple devices, achieving a balance across computation, communication, and task-oriented performance. My research in this thrust focus on optimizing the resources allocation problem using tools such as reinforcement learning for adaptive and low-latency collaborative intelligence.
 
 *Selected Work*:
 
@@ -47,7 +47,7 @@ title: Research
 
 <img align="left" src="/assets/img/DynamicDefense.png" width="300">
 
-<div style="text-align: justify;"> Combing AI and wireless is not just about efficiencey. It also inherits vulnerability from both sides. My research in this thrust focuses on both network security and AI security, including RF fingerprinting, network intrusion detection, adversarial robustness, OOD detection, etc. </div>
+Combing AI and wireless is not just about efficiencey. It also inherits vulnerability from both sides. My research in this thrust focuses on both network security and AI security, including RF fingerprinting, network intrusion detection, adversarial robustness, OOD detection, etc.
 
 *Selected Work*:
 
