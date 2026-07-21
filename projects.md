@@ -34,7 +34,7 @@ We are moving toward a future of *"Ubiquitous Intelligence"* where AI is woven i
 
 Large neural networks demand substantial memory and computations which makes direct deployment on resource-constrained devices impractical. An alternative way is to partition the large model across multiple devices, achieving a balance across computation, communication, and task-oriented performance. My research in this thrust focus on optimizing the resources allocation problem using tools such as reinforcement learning for adaptive and low-latency collaborative intelligence.
 
-*Selected Work*:
+<p style="margin-bottom: 1rem;">*Selected Work*: </p>
 
 - **Milin Zhang\***, Tanzil Hassan\*, Mohammad Abdi, Venkat R. Dasari and Francesco Restuccia, "MD2I: Multi-Device Model-Distributed Neural Network Inference." Under review at Computer Network, 2026.
 - **Milin Zhang\***, Mohammad Abdi\*, Venkat R. Dasari and Francesco Restuccia, "Semantic Edge Computing and Semantic Communications in 6G Networks: A Unifying Survey and Research Challenges." Computer Networks, 2025.
