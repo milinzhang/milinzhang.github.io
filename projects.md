@@ -21,7 +21,7 @@ We are moving toward a future of *"Ubiquitous Intelligence"* where AI is woven i
 
 As wireless networks become more crowded and complex, an intelligent management is needed to communicate efficiently and avoid interference. In addition, beyond simply communicating, the same wireless signals can also be repurposed to sense the real world through AI, turning ordinary radio signals into a form of invisible, hardware-free sensing. My research in this thrust develops generalizable and efficient AI algorithms to advance wireless technologies. 
 
-<p style="margin-bottom: 0.5rem;">*Selected Work*: </p>
+<p style="margin-bottom: 0.5rem;"><i>Selected Work</i>: </p>
 
 - Khandaker Foysal Haque, **Milin Zhang**, Francesca Meneghello, and Francesco Restuccia, "Si-FI: Learning the Beamforming Feedback for Simultaneous Multi-Subject Sensing." Computer Networks, 2025.
 - Khandaker Foysal Haque, **Milin Zhang**, Francesca Meneghello, and Francesco Restuccia, "BeamSense: Rethinking Wireless Sensing with MU-MIMO Wi-Fi Beamforming Feedback." Computer Networks, 2025.
@@ -36,7 +36,7 @@ As wireless networks become more crowded and complex, an intelligent management 
 
 Large neural networks demand substantial memory and computations which makes direct deployment on resource-constrained devices impractical. An alternative way is to partition the large model across multiple devices, achieving a balance across computation, communication, and task-oriented performance. My research in this thrust focus on designing adaptive and low-latency collaborative intelligence in heterogeneous and dynamic edge systems.
 
-<p style="margin-bottom: 0.5rem;">*Selected Work*: </p>
+<p style="margin-bottom: 0.5rem;"><i>Selected Work</i>: </p>
 
 - **Milin Zhang\***, Tanzil Hassan\*, Mohammad Abdi, Venkat R. Dasari and Francesco Restuccia, "MD2I: Multi-Device Model-Distributed Neural Network Inference." Under review at Computer Network, 2026.
 - **Milin Zhang\***, Mohammad Abdi\*, Venkat R. Dasari and Francesco Restuccia, "Semantic Edge Computing and Semantic Communications in 6G Networks: A Unifying Survey and Research Challenges." Computer Networks, 2025.
@@ -51,7 +51,7 @@ Large neural networks demand substantial memory and computations which makes dir
 
 Combining AI and wireless communication does not just bring efficiency, it also inherits vulnerabilities from both sides. Wireless signals can be spoofed or intercepted, and AI models themselves can be fooled, manipulated, or reverse-engineered by adversaries. My research in this thrust develops defenses on both fronts: detecting adversaries from their radio and network level patterns, and making AI models more robust and trustworthy when faced with unexpected or malicious inputs.
 
-<p style="margin-bottom: 0.5rem;">*Selected Work*: </p>
+<p style="margin-bottom: 0.5rem;"><i>Selected Work</i>: </p>
 
 - Sayyed Sazzad, Shahriar Rifat, **Milin Zhang**, Ananthram Swami, Michael De Lucia, Nathaniel D. Bastian, and Francesco Restuccia, "Out-of-Distribution Detection in Computer Vision: A Comprehensive Survey and Research Challenges." ACM Computing Surveys, 2026.
 - Ildi Alla, **Milin Zhang**, Jonathan Ashdown, Valeria Loscri and Francesco Restuccia, "Finding a Needle in a (Spectrum) Haystack: Multi-Band Multi-Device Radio Fingerprinting." Computer Networks, 2026.
