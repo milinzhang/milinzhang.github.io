@@ -1,0 +1,268 @@
+# Conference deadlines I track.
+#
+# registration_deadline_utc / submission_deadline_utc: ISO-8601 UTC instant, used to
+#   compute the countdown and sort order. Leave blank ("") if not applicable/not yet released.
+# registration_display / submission_display: human-readable string shown in the table
+#   (include the timezone the CFP actually states, e.g. AoE, EDT — EDAS/committees are
+#   not consistent; "(assumed)" means the CFP didn't state a timezone and AoE was assumed).
+# tags: area codes used by the filter buttons on the page (AIML, Wireless, Security).
+#
+# When a conference's next edition hasn't announced a CFP yet, the entry is named after
+# the most recent edition with *real* dates (so the label always matches the data shown).
+#
+# Update this file as new CFPs are released or dates slip.
+
+# AIML conferences
+- name: ICML
+  link: https://icml.cc/Conferences/2027
+  location: "TBA"
+  conf_dates: "TBA"
+  registration_deadline_utc: ""
+  registration_display: ""
+  submission_deadline_utc: "2027-01-29T11:59:00Z"
+  submission_display: "Jan 28, 2027, 23:59 AoE"
+  tags: [AIML]
+
+- name: ICLR
+  link: https://iclr.cc/Conferences/2027
+  location: San Francisco, CA, USA
+  conf_dates: "Apr 26–30, 2027"
+  registration_deadline_utc: "2026-09-19T11:59:00Z"
+  registration_display: "Sep 18, 2026, 23:59 AoE"
+  submission_deadline_utc: "2026-09-26T11:59:00Z"
+  submission_display: "Sep 25, 2026, 23:59 AoE"
+  tags: [AIML]
+
+- name: NeurIPS
+  link: https://neurips.cc/Conferences/2026
+  location: Sydney, Australia
+  conf_dates: "Dec 6–12, 2026"
+  registration_deadline_utc: "2026-05-05T11:59:00Z"
+  registration_display: "May 4, 2026, 23:59 AoE"
+  submission_deadline_utc: "2026-05-07T11:59:00Z"
+  submission_display: "May 6, 2026, 23:59 AoE"
+  tags: [AIML]
+
+- name: CVPR
+  link: https://cvpr.thecvf.com/Conferences/2027
+  location: Seattle, WA, USA
+  conf_dates: "Jun 19–26, 2027"
+  registration_deadline_utc: "2026-11-07T11:59:00Z"
+  registration_display: "Nov 6, 2026, 23:59 AoE"
+  submission_deadline_utc: "2026-11-14T11:59:00Z"
+  submission_display: "Nov 13, 2026, 23:59 AoE"
+  tags: [AIML]
+
+- name: ECCV
+  link: https://eccv.ecva.net/Conferences/2026/CallForPapers
+  location: Malmö, Sweden
+  conf_dates: "Sep 8–12, 2026"
+  registration_deadline_utc: "2026-02-26T22:00:00Z"
+  registration_display: "Feb 26, 2026, 23:00 CET"
+  submission_deadline_utc: "2026-03-05T22:00:00Z"
+  submission_display: "Mar 5, 2026, 23:00 CET"
+  tags: [AIML]
+
+- name: ICCV
+  link: https://iccv.thecvf.com/
+  location: Honolulu, HI, USA
+  conf_dates: "Oct 19–23, 2025"
+  registration_deadline_utc: ""
+  registration_display: ""
+  submission_deadline_utc: "2025-03-08T11:59:00Z"
+  submission_display: "Mar 7, 2025, 23:59 AoE"
+  tags: [AIML]
+
+- name: AAAI
+  link: https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/
+  location: Montreal, Quebec, Canada
+  conf_dates: "Feb 16–23, 2027"
+  registration_deadline_utc: "2026-07-22T11:59:00Z"
+  registration_display: "Jul 21, 2026, 23:59 AoE"
+  submission_deadline_utc: "2026-07-29T11:59:00Z"
+  submission_display: "Jul 28, 2026, 23:59 AoE"
+  tags: [AIML]
+
+# wireless/networking conferences
+
+- name: SigComm
+  link: https://conferences.sigcomm.org/sigcomm/2026/cfp/
+  location: Denver, CO, USA
+  conf_dates: "Aug 17–21, 2026"
+  registration_deadline_utc: "2026-01-31T11:59:00Z"
+  registration_display: "Jan 30, 2026, 23:59 AoE"
+  submission_deadline_utc: "2026-02-07T11:59:00Z"
+  submission_display: "Feb 6, 2026, 23:59 AoE"
+  tags: [Wireless]
+
+- name: INFOCOM
+  link: https://infocom2027.ieee-infocom.org/call-papers
+  location: Honolulu, HI, USA
+  conf_dates: "May 24–27, 2027"
+  registration_deadline_utc: "2026-07-25T03:59:00Z"
+  registration_display: "Jul 24, 2026, 23:59 AoE"
+  submission_deadline_utc: "2026-08-01T03:59:00Z"
+  submission_display: "Jul 31, 2026, 23:59 AoE"
+  tags: [Wireless]
+
+- name: MobiCom
+  link: https://www.sigmobile.org/mobicom/2026/cfp.html
+  location: Austin, TX, USA
+  conf_dates: "Oct 26–30, 2026"
+  registration_deadline_utc: "2026-03-07T11:59:00Z"
+  registration_display: "Mar 6, 2026, 23:59 AoE (winter round)"
+  submission_deadline_utc: "2026-03-14T11:59:00Z"
+  submission_display: "Mar 13, 2026, 23:59 AoE (winter round)"
+  tags: [Wireless]
+
+- name: MobiHoc
+  link: https://www.sigmobile.org/mobihoc/2026/cfp.html
+  location: Tokyo, Japan
+  conf_dates: "Nov 23–26, 2026"
+  registration_deadline_utc: "2026-04-14T11:59:00Z"
+  registration_display: "Apr 13, 2026, 23:59 AoE"
+  submission_deadline_utc: "2026-04-21T11:59:00Z"
+  submission_display: "Apr 20, 2026, 23:59 AoE"
+  tags: [Wireless]
+
+- name: MobiSys
+  link: https://www.sigmobile.org/mobisys/2026/call_for_papers/
+  location: Cambridge, UK
+  conf_dates: "Jun 21–25, 2026"
+  registration_deadline_utc: "2025-11-29T11:59:00Z"
+  registration_display: "Nov 28, 2025, 23:59 AoE"
+  submission_deadline_utc: "2025-12-06T11:59:00Z"
+  submission_display: "Dec 5, 2025, 23:59 AoE"
+  tags: [Wireless]
+
+- name: SenSys
+  link: https://sensys.acm.org/2027/
+  location: New York, NY, USA
+  conf_dates: ""
+  registration_deadline_utc: "2026-05-30T11:59:00Z"
+  registration_display: "May 29, 2026, 23:59 AoE"
+  submission_deadline_utc: "2026-06-06T11:59:00Z"
+  submission_display: "Jun 5, 2026, 23:59 AoE (1st cycle)"
+  tags: [Wireless]
+
+- name: PerCom
+  link: https://percom.org/call-for-papers/
+  location: Goa, India
+  conf_dates: "Mar 2027"
+  registration_deadline_utc: "2026-09-05T11:59:00Z"
+  registration_display: "Sep 4, 2026, 23:59 AoE"
+  submission_deadline_utc: "2026-09-12T11:59:00Z"
+  submission_display: "Sep 11, 2026, 23:59 AoE"
+  tags: [Wireless]
+
+- name: ICDCS
+  link: https://icdcs2026.icdcs.org/calls/call-for-papers/
+  location: Seoul, South Korea
+  conf_dates: "Jun 22–25, 2026"
+  registration_deadline_utc: "2026-01-22T11:59:00Z"
+  registration_display: "Jan 21, 2026, 23:59 AoE"
+  submission_deadline_utc: "2026-01-22T11:59:00Z"
+  submission_display: "Jan 21, 2026, 23:59 AoE"
+  tags: [Wireless]
+
+- name: WoWMoM
+  link: https://www.cs.unibo.it/wowmom2026/call_for_papers.html
+  location: Bologna, Italy
+  conf_dates: "Jun 16–19, 2026"
+  registration_deadline_utc: "2025-12-06T11:59:00Z"
+  registration_display: "Dec 5, 2025, 23:59 AoE"
+  submission_deadline_utc: "2025-12-16T11:59:00Z"
+  submission_display: "Dec 15, 2025, 23:59 AoE"
+  tags: [Wireless]
+
+- name: ICC
+  link: https://icc2027.ieee-icc.org/
+  location: Washington, DC, USA
+  conf_dates: "May 30–Jun 3, 2027"
+  registration_deadline_utc: ""
+  registration_display: ""
+  submission_deadline_utc: "2026-10-03T11:59:00Z"
+  submission_display: "Oct 2, 2026, 23:59 AoE"
+  tags: [Wireless]
+
+- name: GLOBECOM
+  link: https://globecom2026.ieee-globecom.org/authors/call-symposium-papers
+  location: Macau, China
+  conf_dates: "Dec 7–11, 2026"
+  registration_deadline_utc: ""
+  registration_display: ""
+  submission_deadline_utc: "2026-03-16T11:59:00Z"
+  submission_display: "Mar 15, 2026, 23:59 AoE"
+  tags: [Wireless]
+
+- name: WCNC
+  link: https://wcnc2027.ieee-wcnc.org/
+  location: Panama City, Panama
+  conf_dates: "April 5–8, 2027"
+  registration_deadline_utc: ""
+  registration_display: ""
+  submission_deadline_utc: "2026-09-16T11:59:00Z"
+  submission_display: "Sep 15, 2026, 23:59 AoE"
+  tags: [Wireless]
+
+- name: MILCOM
+  link: https://milcom2026.ieee-milcom.org/submission-guidelines
+  location: North Bethesda, MD, USA
+  conf_dates: "Oct 12–16, 2026"
+  registration_deadline_utc: ""
+  registration_display: ""
+  submission_deadline_utc: "2026-06-01T03:59:00Z"
+  submission_display: "May 31, 2026, 23:59 AoE"
+  tags: [Wireless]
+
+- name: DySPAN
+  link: https://dyspan2026.ieee-dyspan.org/call-papers
+  location: Washington, D.C., USA
+  conf_dates: "May 11–14, 2026"
+  registration_deadline_utc: ""
+  registration_display: ""
+  submission_deadline_utc: "2025-12-30T11:59:00Z"
+  submission_display: "Dec 29, 2025, 23:59 AoE"
+  tags: [Wireless]
+
+# security conferences
+
+- name: S&P
+  link: https://sp2027.ieee-security.org/cfpapers.html
+  location: Montreal, Canada
+  conf_dates: "TBA"
+  registration_deadline_utc: "2026-11-11T11:59:59Z"
+  registration_display: "Nov 10, 2026, 23:59:59 AoE (2nd cycle)"
+  submission_deadline_utc: "2026-11-18T11:59:59Z"
+  submission_display: "Nov 17, 2026, 23:59:59 AoE (2nd cycle)"
+  tags: [Security]
+
+- name: USENIX Security
+  link: https://www.usenix.org/conference/usenixsecurity27/call-for-papers
+  location: Denver, CO, USA
+  conf_dates: "Aug 11–13, 2027"
+  registration_deadline_utc: "2027-01-20T11:59:00Z"
+  registration_display: "Jan 19, 2027, 23:59 AoE"
+  submission_deadline_utc: "2027-01-27T11:59:00Z"
+  submission_display: "Jan 26, 2027, 23:59 AoE"
+  tags: [Security]
+
+- name: CCS
+  link: https://www.sigsac.org/ccs/CCS2026/call-for/call-for-papers.html
+  location: The Hague, Netherlands
+  conf_dates: "Nov 15–19, 2026"
+  registration_deadline_utc: "2026-04-22T11:59:00Z"
+  registration_display: "Apr 22, 2026, 23:59 AoE (cycle B)"
+  submission_deadline_utc: "2026-04-29T11:59:00Z"
+  submission_display: "Apr 29, 2026, 23:59 AoE (cycle B)"
+  tags: [Security]
+
+- name: NDSS
+  link: https://www.ndss-symposium.org/ndss2027/submissions/call-for-papers/
+  location: Seoul, South Korea
+  conf_dates: "Mar 2027"
+  registration_deadline_utc: ""
+  registration_display: ""
+  submission_deadline_utc: "2026-08-20T11:59:00Z"
+  submission_display: "Aug 19, 2026, 23:59 AoE (fall cycle)"
+  tags: [Security]
