@@ -38,7 +38,7 @@ Large neural networks demand substantial memory and computations which makes dir
 
 <p style="margin-bottom: 0.5rem;"><i>Selected Work</i>: </p>
 
-- **Milin Zhang\***, Tanzil Hassan\*, Mohammad Abdi, Venkat R. Dasari and Francesco Restuccia, "MD2I: Multi-Device Model-Distributed Neural Network Inference." Under review at Computer Network, 2026.
+- **Milin Zhang\***, Tanzil B. Hassan\*, Mohammad Abdi, Venkat R. Dasari and Francesco Restuccia, "MD2I: Multi-Device Model-Distributed Neural Network Inference." Computer Network, 2026.
 - **Milin Zhang\***, Mohammad Abdi\*, Venkat R. Dasari and Francesco Restuccia, "Semantic Edge Computing and Semantic Communications in 6G Networks: A Unifying Survey and Research Challenges." Computer Networks, 2025.
 - **Milin Zhang**, Mohammad Abdi, Jonathan Ashdown, and Francesco Restuccia, "Adversarial Attacks to Latent Representations of Distributed Neural Networks in Split Computing." Computer Networks, 2025.
 - **Milin Zhang**, Mohammad Abdi, Shahriar Rifat, and Francesco Restuccia, "Resilience of Entropy Model in Distributed Neural Networks." ECCV, 2024.
